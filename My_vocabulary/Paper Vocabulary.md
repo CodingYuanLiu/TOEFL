@@ -13,3 +13,9 @@
 * intimidate 恐吓
 * rogue 流氓，小淘气
 * snapshot 快照
+* kick off 中线开球，开始
+* arbiter 仲裁者
+* glean 收集
+* namely 也就是说
+* obsolescence (obsolete)
+* tamper with 破坏
