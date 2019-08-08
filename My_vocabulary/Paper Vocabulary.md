@@ -19,3 +19,4 @@
 * namely 也就是说
 * obsolescence (obsolete)
 * tamper with 破坏
+* inscrutable 神秘的，不可预测的，不可思议的
