@@ -23,6 +23,7 @@
 * damage
 * destroy
 * jeopardize
+* demolish
 
 ## 入侵
 ## 保护
