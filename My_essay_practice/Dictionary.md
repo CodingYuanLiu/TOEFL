@@ -46,6 +46,7 @@
 
 ## 巨大的
 * staggering
+* tremendous
 
 ## 突出的
 * distinct
