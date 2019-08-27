@@ -6,6 +6,26 @@
 
 
 ## 增加
+* increase
+* improve
+* promote
+* enhance
+* add
+* augment
+* aggrandize
+
+## 投入
+* dedicate to
+* devote
+* put into
+* donate
+
+## 热情
+* passion
+* enthusiasm
+* zeal
+* ardour
+
 ## 阻碍
 * clog
 * hinder
@@ -55,3 +75,15 @@
 * salient
 * prominent
 * eminent
+
+## 认为
+* consider
+* think
+* take for
+* deem
+
+## 有能力，能够，可以
+* can， be able to
+* be capable of
+* have the capability of
+* are enabled to
