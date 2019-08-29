@@ -1,7 +1,7 @@
 ## 转接句
 * Needless to say,...
-* 
+* despite the statement in the reading passage that..., the professor...
 
 ## 妙句
 * The merit encompassed within the serious movie far outweigh those of funny movies.
-* 
+* I would like to avail myself of this opportunity to ...

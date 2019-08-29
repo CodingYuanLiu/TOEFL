@@ -3,6 +3,10 @@
 * nevertheless
 * whereby
 * henceforth
+* whereas
+* let alone
+* the hypothesis is untenable/indefensable.
+* the author asserts that ... but the professor proves that this claim is untenable/indefensable.
 
 
 ## 增加
@@ -37,13 +41,16 @@
 * motivate
 * boost
 
-## 消灭，毁坏，伤害
+## 消灭，毁坏，伤害,有害的
 * extermination
 * devastate
 * damage
 * destroy
 * jeopardize
 * demolish
+* harmful
+* detrimental
+* noxious
 
 ## 入侵
 ## 保护
@@ -63,6 +70,9 @@
 * ?favorable
 * advantageous
 * profitable
+* benefit
+* profit 
+* avail (avail oneself of)
 
 ## 巨大的
 * staggering
@@ -87,3 +97,4 @@
 * be capable of
 * have the capability of
 * are enabled to
+* 
